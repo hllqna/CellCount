@@ -13,7 +13,7 @@ int main(int argc, char * argv[])
 {
 
 	int minB1 = 40, minG1 = 0, minR1 = 0, maxB1 = 255, maxG1 = 255, maxR1 = 60; //for marker1(blue)
-	int minB2 = 60, minG2 = 0, minR2 = 55, maxB2 = 255, maxG2 = 255, maxR2 = 255; //for marker2(blue)
+	int minB2 = 60, minG2 = 0, minR2 = 55, maxB2 = 255, maxG2 = 255, maxR2 = 255; //for marker2(red)
 
 	if (argc > 1)
 	{
